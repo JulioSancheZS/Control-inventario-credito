@@ -1,0 +1,19 @@
+{
+  "name": "CrediVentas Nicaragua",
+  "short_name": "CrediVentas",
+  "description": "Sistema de gestión comercial y ventas al crédito para electrodomésticos y tecnología en Nicaragua",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#1E3A8A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
